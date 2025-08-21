@@ -1,7 +1,7 @@
 # Hello there, I'm Nathan! 👋
 
 ## About me
-- 🍎 I'm a current Second-year at UCI, majoring in Computer Science
+- 🍎 I'm a current Third-year at UCI, majoring in Computer Science
 - 🤓 I'm super interested in AI, machine learning, and full-stack development, but I am always looking to explore new areas.
 - 🖥️ I like to make projects on things I am passionate about and help me in my everyday life.
 - 🌱 In my free time I like to play video games and I'm a big sports fan. (49ers 🏈, Warriors 🏀, Giants ⚾) 
