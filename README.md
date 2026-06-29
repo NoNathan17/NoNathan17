@@ -36,7 +36,6 @@ I'm Nathan, a computer science student at [UC Irvine](https://ics.uci.edu/) spec
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🤓 My Github Stats 
 ![nonathan17's Stats](https://github-readme-stats.vercel.app/api?username=nonathan17&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide=stars)
