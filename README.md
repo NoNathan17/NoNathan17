@@ -2,7 +2,7 @@
 I'm Nathan, a computer science student at [UC Irvine](https://ics.uci.edu/) specializing in AI. 🤖
 
 ### 🤔 Some things I've been up too...
-- software developer intern at leidos, working on counter-uas systems 🛸
+- software developer intern at [leidos](https://www.leidos.com/markets/defense/Integrated-Air-and-Missile-Defense), working on counter-uas systems 🛸
 - technical director for [hack @ uci](https://hack.ics.uci.edu/), leading development for Orange County's two largest hackathons 👾
 - full-stack developer for [commit the change](https://ctc-uci.com/), building applications for local nonprofits 💜
 - software developer for [caretech @ uci](https://caretechuci.vercel.app/), developing AI-powered healthcare platforms 🏥
