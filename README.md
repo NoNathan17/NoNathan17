@@ -41,9 +41,12 @@ I'm Nathan, a computer science student at [UC Irvine](https://ics.uci.edu/) spec
 ![nonathan17's Stats](https://github-readme-stats.vercel.app/api?username=nonathan17&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide=stars)
 ![nonathan17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nonathan17&theme=tokyonight&hide_border=false)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nonathan17/nonathan17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nonathan17/nonathan17/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nonathan17/nonathan17/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nonathan17/nonathan17/output/github-snake-dark.svg">
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/nonathan17/nonathan17/output/github-snake-dark.svg">
 </picture>
 
 ## 🎵 My Spotify Status
